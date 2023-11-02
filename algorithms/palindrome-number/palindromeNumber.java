@@ -13,7 +13,7 @@ public class palindromeNumber {
     }
 
     public static void main(String[] args) {
-        int x = 3663;
+        int x = 1221;
         boolean result = isPalindrome(x);
         System.out.println(x);
         System.out.println(result);
